@@ -6,15 +6,15 @@ This portfolio highlights a selection of projects that showcase my skills in dat
 
 🔧 Skills & Tools
 
-Languages: SQL, Python (Pandas, NumPy)
+Languages: SQL, Python (Pandas, NumPy, Scikit-learn, bs4)
 
 Visualization: Matplotlib, Seaborn, PowerBI, Tableau
 
 Data Handling: Excel, Jupyter Notebook
 
-Databases: MySQL, Sqlite3
+Databases: MySQL, SQLite3
 
-Other Tools: Git, GitHub, Excel
+Other Tools: Git, GitHub, PowerPoint
 
 📁 Featured Projects
 
@@ -26,7 +26,7 @@ Machine Learning problem: classification
 
 Objective: analyze ad campagin data,  optimize digital marketing strategies and drive revenue growth.
 
-  View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Portfolio/blob/main/optimizing_social_media_ad_campaign.ipynb)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Optimizing%20ad%20campaign/optimizing_social_media_ad_campaign.ipynb)
 
 **🎯2. Bank Churn Prediction**
 
@@ -36,7 +36,7 @@ Machine Learning problem: classification
 
 Objective: churn analysis, enpower CRM to engage retention strategies. 
 
-View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Portfolio/blob/main/Capstone_XYZ_Bank_Churn%20.ipynb)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/Capstone_XYZ_Bank_Churn%20.ipynb)
 
 **🎯3. Used Vehicle Analysis**
 
@@ -45,6 +45,8 @@ Tools: Python, Scikit-learn, Pandas, Seaborn, Tableau
 Machine Learning problem: regression
 
 Objective: price prediction based on vehicles' features and conditions. 
+
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Used%20vehicles%20analysis/used_vehicles_analysis%20(1).pdf)
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/Book1_17320012104880/Onlinevehicleanalysis)
 
@@ -59,7 +61,7 @@ Objective: analysis on vendors' performance through segmentations, quality contr
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/AEMROutageAnalysisJan2016-Dec2017_17246973919050/AEMREXECPRESENTATION)
 
-View SQL ➜ [SQL](https://github.com/leiliu7/Data-Analytics-Portfolio/blob/main/AEMR_SQL_Analysis.ipynb)
+View SQL ➜ [SQL](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Vendor%20performance%20analysis/AEMR_SQL_Analysis.ipynb)
 
 📫 Contact
 
