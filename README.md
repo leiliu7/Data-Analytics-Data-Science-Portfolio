@@ -38,7 +38,7 @@ Objective: churn analysis, enpower CRM to engage retention strategies.
 
 View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/Capstone_XYZ_Bank_Churn%20.ipynb)
 
-**🎯3. Used Vehicle Analysis**
+**🎯3. Used Vehicles Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Seaborn, Tableau
 
@@ -53,11 +53,11 @@ View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/B
 
 📁 Mini Projects
 
-**🎯1. AEMR Outage Analysis**
+**🎯1. Vendor Performance Analysis**
 
 Tools: SQLite, Excel, Tableau
 
-Objective: analysis on vendors' performance through segmentations, quality control and risk prevention.
+Objective: by leveraging time series data to analyze vendor performance across segmented groups, enabling proactive monitoring and strategic decision-makin.
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/AEMROutageAnalysisJan2016-Dec2017_17246973919050/AEMREXECPRESENTATION)
 
