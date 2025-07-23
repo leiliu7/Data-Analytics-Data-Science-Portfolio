@@ -71,7 +71,7 @@ Objective: By leveraging historical data to optimize the selling price, we aim t
 
 View Excel ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart%20pricing%20using%20Excel/smart_pricing_project.xlsx)
 
-View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart%20pricing%20using%20Excel/Maximizing%20Profitability%20Through%20Smart%20Pricing%20Presentation.pptx)
+View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart%20pricing%20using%20Excel/Maximizing%20Profitability%20Through%20Smart%20Pricing%20Presentation.pdf)
 
 📫 Contact
 
