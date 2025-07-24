@@ -75,7 +75,7 @@ View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Scienc
 
 📫 Contact
 
-Feel free to connect or reach out if you'd like to collaborate or learn more about my work:
+Thanks for reviewing my portfolio, please feel free to connect if you'd like to collaborate or learn more about my work:
 
 Email: [lauraliu1117@gmail.com]
 
