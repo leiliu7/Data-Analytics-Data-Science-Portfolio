@@ -18,15 +18,15 @@ Other Tools: Git, GitHub, PowerPoint
 
 📁 Featured Projects
 
-**🎯1. Social Media Ad Campaign Analysis**
+**🎯1. Social Media Ad Campaign Performance Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Numpy, Seaborn, PowerPoint
 
 Machine Learning problem: classification
 
-Objective: analyze ad campagin data,  optimize digital marketing strategies and drive revenue growth.
+Objective: optimize social media ad campaign performance and ROI.
 
-View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Social-Media-Ad-Campaign-Analysis/optimizing_social_media_ad_campaign.ipynb)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Social-Media-Campaign-Performance-Analysis/optimizing_social_media_ad_campaign.ipynb)
 
 **🎯2. Bank Churn Prediction**
 
@@ -34,19 +34,19 @@ Tools: Python, Scikit-learn, Pandas, Seaborn
 
 Machine Learning problem: classification
 
-Objective: churn analysis, enpower CRM to engage retention strategies. 
+Objective: bank churn analysis and predition, enpower CRM to engage retention strategies. 
 
 View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Bank-Churn-Prediction/Capstone_XYZ_Bank_Churn%20.ipynb)
 
 View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/slides%20presentation_XYZ_%20bank_churn_prediction.pdf)
 
-**🎯3. Used Vehicles Analysis**
+**🎯3. Used Vehicle Analysis and Price Prediction**
 
 Tools: Python, Scikit-learn, Pandas, Seaborn, Tableau
 
 Machine Learning problem: regression
 
-Objective: price prediction based on vehicles' features and conditions. 
+Objective: conduct EDA, price prediction on a large-scaled dataset to draw trends and insights of used vehicle, aims to streamline online shopping experience.
 
 View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Vehicles-Price-Prediction/used_vehicles_analysis%20(1).pdf)
 
@@ -59,7 +59,7 @@ View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/B
 
 Tools: SQLite, Excel, Tableau
 
-Objective: by leveraging time series data to analyze vendor performance across segmented groups, enabling proactive monitoring and strategic decision-makin.
+Objective: by leveraging time series data to analyze vendor performance across segmented groups.
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/AEMROutageAnalysisJan2016-Dec2017_17246973919050/AEMREXECPRESENTATION)
 
