@@ -63,7 +63,7 @@ Objective: by leveraging time series data to analyze vendor performance across s
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/AEMROutageAnalysisJan2016-Dec2017_17246973919050/AEMREXECPRESENTATION)
 
-View SQL ➜ [SQL](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Vendor%20performance%20analysis/AEMR_SQL_Analysis.ipynb)
+View SQL ➜ [SQL](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Vendor-Performance-Analysis/AEMR_SQL_Analysis.ipynb)
 
 **🎯2. Smart Pricing using Excel**
 
