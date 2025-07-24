@@ -38,6 +38,8 @@ Objective: churn analysis, enpower CRM to engage retention strategies.
 
 View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/Capstone_XYZ_Bank_Churn%20.ipynb)
 
+View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/slides%20presentation_XYZ_%20bank_churn_prediction.pdf)
+
 **🎯3. Used Vehicles Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Seaborn, Tableau
