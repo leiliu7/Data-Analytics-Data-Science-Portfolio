@@ -18,7 +18,7 @@ Other Tools: Git, GitHub, PowerPoint
 
 📁 Featured Projects
 
-**🎯1. Optimizing Ad Campaign on Social Media**
+**🎯1. Social Media Ad Campaign Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Numpy, Seaborn, PowerPoint
 
@@ -26,7 +26,7 @@ Machine Learning problem: classification
 
 Objective: analyze ad campagin data,  optimize digital marketing strategies and drive revenue growth.
 
-View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Optimizing%20ad%20campaign/optimizing_social_media_ad_campaign.ipynb)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Social-Media-Ad-Campaign-Analysis/optimizing_social_media_ad_campaign.ipynb)
 
 **🎯2. Bank Churn Prediction**
 
@@ -36,7 +36,7 @@ Machine Learning problem: classification
 
 Objective: churn analysis, enpower CRM to engage retention strategies. 
 
-View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/Capstone_XYZ_Bank_Churn%20.ipynb)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Bank-Churn-Prediction/Capstone_XYZ_Bank_Churn%20.ipynb)
 
 View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/XYZ%20bank%20churn/slides%20presentation_XYZ_%20bank_churn_prediction.pdf)
 
@@ -48,7 +48,7 @@ Machine Learning problem: regression
 
 Objective: price prediction based on vehicles' features and conditions. 
 
-View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Used%20vehicles%20analysis/used_vehicles_analysis%20(1).pdf)
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Vehicles-Price-Prediction/used_vehicles_analysis%20(1).pdf)
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/Book1_17320012104880/Onlinevehicleanalysis)
 
@@ -71,9 +71,7 @@ Tools: Excel, PowerPoint
 
 Objective: By leveraging historical data to optimize the selling price, we aim to enhance market strategy and inventory management, ultimately contributing to increased annual profit and long-term market success.
 
-View Excel ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart%20pricing%20using%20Excel/smart_pricing_project.xlsx)
-
-View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart%20pricing%20using%20Excel/Maximizing%20Profitability%20Through%20Smart%20Pricing%20Presentation.pdf)
+View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart-Pricing-Using-Excel/Maximizing%20Profitability%20Through%20Smart%20Pricing%20Presentation.pdf)
 
 📫 Contact
 
