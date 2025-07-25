@@ -79,7 +79,7 @@ Thanks for reviewing my portfolio, please feel free to connect if you'd like to 
 
 Email: [lauraliu1117@gmail.com]
 
-LinkedIn: [linkedin](https://www.linkedin.com/in/leiliuprofile)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/leiliuprofile)
 
 Tableau Profile: [Tableau](https://public.tableau.com/app/profile/lei.liu3755/vizzes)
 
