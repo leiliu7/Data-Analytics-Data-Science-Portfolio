@@ -69,7 +69,7 @@ View SQL ➜ [SQL](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfo
 
 Tools: Excel, PowerPoint
 
-Objective: By leveraging historical data to optimize the selling price, we aim to enhance market strategy and inventory management, ultimately contributing to increased annual profit and long-term market success.
+Objective: by leveraging historical sales data to optimize selling price for successful marketing and sustainable business growth.
 
 View PowerPoint ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Smart-Pricing-Using-Excel/Maximizing%20Profitability%20Through%20Smart%20Pricing%20Presentation.pdf)
 
