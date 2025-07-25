@@ -81,3 +81,5 @@ Email: [lauraliu1117@gmail.com]
 
 LinkedIn: [linkedin](https://www.linkedin.com/in/leiliuprofile)
 
+Tableau Profile: [Tableau](https://public.tableau.com/app/profile/lei.liu3755/vizzes)
+
