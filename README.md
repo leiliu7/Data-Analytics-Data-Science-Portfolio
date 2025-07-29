@@ -18,13 +18,13 @@ Other Tools: Git, GitHub, PowerPoint
 
 📁 Featured Projects
 
-**🎯1. Social Media Ad Campaign Performance Analysis**
+**🎯1. Social Media Campaign Performance Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Numpy, Seaborn, PowerPoint
 
 Machine Learning problem: classification
 
-Objective: optimize social media ad campaign performance and ROI.
+Objective: optimize performance of social media campaign through analyzing historical data.
 
 View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Social-Media-Campaign-Performance-Analysis/optimizing_social_media_ad_campaign.ipynb)
 
