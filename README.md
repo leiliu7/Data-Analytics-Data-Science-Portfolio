@@ -8,17 +8,17 @@ This portfolio highlights a selection of projects that showcase my skills in dat
 
 Languages: SQL, Python (Pandas, NumPy, Scikit-learn, bs4)
 
-Visualization: Matplotlib, Seaborn, PowerBI, Tableau
+Visualization: Matplotlib, Seaborn, Tableau
 
-Data Handling: Excel, Jupyter Notebook
+RDBMS: MySQL, SQLite3
 
-Databases: MySQL, SQLite3
+Cloud data warehouses: BigQuery, AWS Redshift, AWS Athena
 
-Other Tools: Git, GitHub, PowerPoint
+Other tools: Git, GitHub, MS Office Suite
 
 📁 Featured Projects
 
-**🎯1. Social Media Campaign Performance Analysis**
+**🎯1. Social Media Ad Campaign Performance Analysis**
 
 Tools: Python, Scikit-learn, Pandas, Numpy, Seaborn, PowerPoint
 
