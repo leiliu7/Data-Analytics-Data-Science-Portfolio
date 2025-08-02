@@ -52,6 +52,13 @@ View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-P
 
 View Tableau ➜ [here](https://public.tableau.com/app/profile/lei.liu3755/viz/Book1_17320012104880/Onlinevehicleanalysis)
 
+**🎯4. Create a Relational Database for Business**
+
+Tools: SQL, Google BigQuery
+
+Objective: design database schema, create and maintain a relational database for business, connect to cloud platform such as BigQuery for data query and analysis.
+
+View Project ➜ [here](https://github.com/leiliu7/Data-Analytics-Data-Science-Portfolio/blob/main/Database-Project/create_database_document.pdf)
 
 📁 Mini Projects
 
